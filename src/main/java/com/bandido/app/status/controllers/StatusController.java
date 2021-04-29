@@ -56,7 +56,6 @@ public class StatusController {
 //		try {
 //			Thread.sleep(10000L);
 //		} catch (InterruptedException e) {
-//			// TODO Auto-generated catch block
 //			e.printStackTrace();
 //		}
 		return new ResponseEntity<List<Status>>(lista, HttpStatus.OK);
@@ -75,7 +74,6 @@ public class StatusController {
 //		try {
 //			Thread.sleep(10000L);
 //		} catch (InterruptedException e) {
-//			// TODO Auto-generated catch block
 //			e.printStackTrace();
 //		}
 		
